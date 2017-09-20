@@ -1,0 +1,166 @@
+<sear:SEGMENTS xmlns:sear="http://www.exlibrisgroup.com/xsd/jaguar/search"><sear:JAGROOT><sear:RESULT><sear:DOCSET TOTALHITS="1"><sear:DOC LOCAL="true"><PrimoNMBib xmlns="http://www.exlibrisgroup.com/xsd/primo/primo_nm_bib">
+<record>
+<control>
+<sourcerecordid>000516573</sourcerecordid> 
+<sourceid>ndu_aleph</sourceid> 
+<recordid>ndu_aleph000516573</recordid> 
+<originalsourceid>NDU01</originalsourceid> 
+<ilsapiid>NDU01000516573</ilsapiid> 
+<sourceformat>MARC21</sourceformat> 
+<sourcesystem>Aleph</sourcesystem> 
+</control>
+<display>
+<type>book</type> 
+<title>Henri de Lubac : sein organisches Lebenswerk</title> 
+<creator>Hans Urs von Balthasar 1905-1988.</creator> 
+<publisher>Einsiedeln : Johannes Verlag : Auslfg., Benziger</publisher> 
+<creationdate>1976</creationdate> 
+<format>100 p., [1] leaf of plates : port. ; 19 cm..</format> 
+<identifier>$$CISBN $$V3265101738 :</identifier> 
+<subject>Lubac, Henri de, 1896-1991</subject> 
+<language>ger</language> 
+<relation>$$Cseries $$VKriterien ; 38</relation> 
+<availlibrary>$$INDU$$LHESB$$1General Collection$$2(BX 4705 .L7918 B34 )$$Savailable$$31$$40$$5N$$62$$XNDU50$$YHESB$$ZGEN</availlibrary> 
+<lds02>ndu_aleph000516573</lds02> 
+<lds30>Kriterien ; ~~ 38</lds30> 
+<availinstitution>$$INDU$$Savailable</availinstitution><availpnx>available</availpnx></display>
+<links>
+<openurl>$$Topenurl_journal</openurl> 
+<backlink>$$Taleph_backlink$$DNotre Dame Catalog</backlink> 
+<thumbnail>$$Tamazon_thumb</thumbnail> 
+<thumbnail>$$Tsyndetics_thumb</thumbnail> 
+<thumbnail>$$Tgoogle_thumb</thumbnail> 
+<linktoabstract>$$Tsyndetics_abstract$$Elinktoabstract</linktoabstract> 
+<openurlfulltext>$$Topenurlfull_journal</openurlfulltext> 
+<linktoholdings>$$Taleph_holdings$$INDU</linktoholdings> 
+<linktoholdings>$$Taleph_holdings</linktoholdings> 
+<linktoholdsnotexist>$$Taleph_holdings_not_in_user_institution</linktoholdsnotexist> 
+<linktouc>$$Tworldcat_isbn$$Eworldcat</linktouc> 
+<linktoexcerpt>$$Tsyndetics_excerpt$$Elinktoexcerpt</linktoexcerpt> 
+<lln01>$$Tfindit_link</lln01> 
+</links>
+<search>
+<creatorcontrib>Hans Urs von,  Balthasar  1905-1988.</creatorcontrib> 
+<creatorcontrib>Balthasar, H</creatorcontrib> 
+<creatorcontrib>Hans Urs von Balthasar.</creatorcontrib> 
+<creatorcontrib>Von Balthasar, Hans Urs, 1905-1988</creatorcontrib> 
+<creatorcontrib>Balthasar, H. U. von (Hans Urs), 1905-1988</creatorcontrib> 
+<title>Henri de Lubac : sein organisches Lebenswerk /</title> 
+<subject>Lubac, Henri de, 1896-1991.</subject> 
+<subject>De Lubac, Henri, 1896-1991</subject> 
+<general>Johannes Verlag : [Auslfg., Benziger],</general> 
+<general>(OCoLC)02403001</general> 
+<general>OCoLC02403001</general> 
+<general>02403001</general> 
+<general>2403001</general> 
+<general>ACF2028</general> 
+<general>AllDocuments</general> 
+<sourceid>ndu_aleph</sourceid> 
+<recordid>ndu_aleph000516573</recordid> 
+<recordid>000516573</recordid> 
+<recordid>516573</recordid> 
+<isbn>3265101738</isbn> 
+<isbn>9783265101736</isbn> 
+<creationdate>1976</creationdate> 
+<startdate>19760101</startdate> 
+<enddate>19761231</enddate> 
+<addtitle>Kriterien ; 38</addtitle> 
+<searchscope>ndu_aleph</searchscope> 
+<searchscope>NDU</searchscope> 
+<scope>HESB</scope> 
+<scope>ndu_aleph</scope> 
+<scope>NDU</scope> 
+<lsr01>HESB GEN</lsr01> 
+<lsr01>HESB General Collection</lsr01> 
+<lsr02>Balthasar Henri de Lubac</lsr02> 
+<lsr02>Henri de Lubac Balthasar</lsr02> 
+<lsr03>Kriterien ; 38</lsr03> 
+<lsr05>BX 4705 .L7918 B34</lsr05> 
+<lsr05>BX4705.L7918B34</lsr05> 
+<lsr05>BX4705 .L7918 B34 :</lsr05> 
+<lsr07>Balthasar Henri de Lubac</lsr07> 
+<lsr07>Henri de Lubac Balthasar</lsr07> 
+<lsr06>Johannes Verlag : [Auslfg., Benziger],</lsr06> 
+<lsr08>Einsiedeln :</lsr08> 
+<lsr09>00000004748687</lsr09> 
+<lsr30>Kriterien ; 38</lsr30> 
+</search>
+<sort>
+<title>Henri de Lubac : sein organisches Lebenswerk /</title> 
+<creationdate>1976</creationdate> 
+<author>Balthasar, Hans Urs von, 1905-1988.</author> 
+<lso01>1976</lso01> 
+<lso02>BX0 004705 L00 791800 B00 340000 -- DLC</lso02> 
+</sort>
+<facets>
+<language>ger</language> 
+<creationdate>1976</creationdate> 
+<topic>Lubac, Henri de, 1896-1991</topic> 
+<toplevel>available</toplevel> 
+<prefilter>books</prefilter> 
+<prefilter>print</prefilter> 
+<prefilter>pbook</prefilter> 
+<rsrctype>books</rsrctype> 
+<rsrctype>print</rsrctype> 
+<rsrctype>pbook</rsrctype> 
+<creatorcontrib>Balthasar, H</creatorcontrib> 
+<library>HESB</library> 
+<classificationlcc>B - Philosophy. Psychology. Religion–Christian Denominations</classificationlcc><frbrgroupid>73724193</frbrgroupid><frbrtype>6</frbrtype></facets>
+<dedup>
+<t>1</t> 
+<c1>76472482</c1> 
+<c2>3265101738</c2> 
+<c3>henridelubacseinorgalebenswerk</c3> 
+<c4>1976</c4> 
+<f1>76472482</f1> 
+<f3>3265101738</f3> 
+<f5>henridelubacseinorgalebenswerk</f5> 
+<f6>1976</f6> 
+<f7>henri de lubac sein organisches lebenswerk</f7> 
+<f8>gw</f8> 
+<f9>100 p., [1] leaf of plates :</f9> 
+<f10>johannes verlag auslfg benziger</f10> 
+<f11>balthasar hans urs von 1905 1988</f11> 
+</dedup>
+<frbr>
+<t>1</t> 
+<k1>$$Kbalthasar hans urs von 1905 1988$$AA</k1> 
+<k3>$$Khenri de lubac sein organisches lebenswerk$$AT</k3> 
+</frbr>
+<delivery>
+<institution>NDU</institution> 
+<delcategory>Physical Item</delcategory> 
+</delivery>
+<enrichment>
+<classificationlcc>BX 4705 .L7918</classificationlcc> 
+</enrichment>
+<ranking>
+<booster1>1</booster1> 
+<booster2>1</booster2> 
+</ranking>
+<addata>
+<aulast>Balthasar</aulast> 
+<aufirst>Hans Urs von,</aufirst> 
+<au>Balthasar, Hans Urs von</au> 
+<btitle>Henri de Lubac : sein organisches Lebenswerk</btitle> 
+<seriestitle>Kriterien ; 38</seriestitle> 
+<date>1976</date> 
+<risdate>1976.</risdate> 
+<isbn>3265101738</isbn> 
+<format>book</format> 
+<ristype>BOOK</ristype> 
+<notes>Includes bibliographical references.</notes> 
+<cop>Einsiedeln</cop> 
+<pub>Johannes Verlag : [Auslfg., Benziger]</pub> 
+<oclcid>02403001</oclcid> 
+<lccn>76472482</lccn> 
+</addata>
+<browse>
+<author>$$DBalthasar, Hans Urs von, 1905-1988$$EBalthasar, Hans Urs von, 1905-1988</author> 
+<title>$$DHenri de Lubac : sein organisches Lebenswerk$$EHenri de Lubac : sein organisches Lebenswerk</title> 
+<title>$$DKriterien [series]$$EKriterien [series]</title> 
+<subject>$$DLubac, Henri de, 1896-1991$$ELubac, Henri de, 1896-1991</subject> 
+<callnumber>$$INDU$$DBX 4705 .L7918 B34$$E0bx   04705.l  79180  b34 $$T0</callnumber> 
+<institution>NDU</institution> 
+</browse>
+</record></PrimoNMBib><sear:GETIT deliveryCategory="Physical Item" GetIt1="OVP" GetIt2=""/><sear:LIBRARIES><sear:LIBRARY><sear:institution>NDU</sear:institution><sear:library>HESB</sear:library><sear:status>available</sear:status><sear:collection>General Collection</sear:collection><sear:callNumber>(BX 4705 .L7918 B34 )</sear:callNumber><sear:url>OVP</sear:url></sear:LIBRARY></sear:LIBRARIES><sear:LINKS><sear:openurl><![CDATA[http://findtext.library.nd.edu:8889/ndu_local?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2017-03-31T19%3A45%3A03IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-ndu_aleph&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=&rft.atitle=&rft.jtitle=&rft.btitle=Henri%20de%20Lubac%20:%20sein%20organisches%20Lebenswerk&rft.aulast=Balthasar&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Balthasar,%20Hans%20Urs%20von&rft.aucorp=&rft.volume=&rft.issue=&rft.part=&rft.quarter=&rft.ssn=&rft.spage=&rft.epage=&rft.pages=&rft.artnum=&rft.issn=&rft.eissn=&rft.isbn=3265101738&rft.sici=&rft.coden=&rft_id=info:doi/&rft.object_id=&rft.eisbn=&rft_dat=<ndu_aleph>000516573</ndu_aleph><grp_id>73724193</grp_id><oa></oa>&rft_id=info:oai/&req.language=]]></sear:openurl><sear:backlink>http://alephprod.library.nd.edu/F?func=direct&amp;local_base=NDU01pub&amp;doc_number=000516573</sear:backlink><sear:thumbnail>http://images.amazon.com/images/P/3265101738.01._SSTHUM_.jpg</sear:thumbnail><sear:thumbnail>http://syndetics.com/index.aspx?isbn=3265101738/SC.JPG&amp;client=CLIENT</sear:thumbnail><sear:thumbnail>http://books.google.com/books?bibkeys=ISBN:3265101738,OCLC:02403001,LCCN:76472482&amp;jscmd=viewapi&amp;callback=updateGBSCover</sear:thumbnail><sear:thumbnail>http://images.amazon.com/images/P/3265101738.01._SS[size]_SCLZZZZZZZ_.jpg</sear:thumbnail><sear:thumbnail>http://syndetics.com/index.aspx?isbn=3265101738/SC.JPG&amp;client=CLIENT</sear:thumbnail><sear:thumbnail>http://books.google.com/books?bibkeys=ISBN:3265101738,OCLC:02403001,LCCN:76472482&amp;jscmd=viewapi&amp;callback=updateGBSCover</sear:thumbnail><sear:linktoabstract>http://syndetics.com/index.aspx?isbn=3265101738/SUMMARY.HTML&amp;client=CLIENT&amp;type=rn12</sear:linktoabstract><sear:openurlfulltext><![CDATA[http://findtext.library.nd.edu:8889/ndu_local?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2017-03-31T19%3A45%3A03IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-ndu_aleph&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=&rft.atitle=&rft.jtitle=&rft.btitle=Henri%20de%20Lubac%20:%20sein%20organisches%20Lebenswerk&rft.aulast=Balthasar&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Balthasar,%20Hans%20Urs%20von&rft.aucorp=&rft.volume=&rft.issue=&rft.part=&rft.quarter=&rft.ssn=&rft.spage=&rft.epage=&rft.pages=&rft.artnum=&rft.issn=&rft.eissn=&rft.isbn=3265101738&rft.sici=&rft.coden=&rft_id=info:doi/&rft.object_id=&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&rft.eisbn=&rft_dat=<ndu_aleph>000516573</ndu_aleph><grp_id>73724193</grp_id><oa></oa>&rft_id=info:oai/&req.language=]]></sear:openurlfulltext><sear:linktoholdings>OVP</sear:linktoholdings><sear:linktouc>http://www.worldcat.org/search?q=isbn%3A3265101738</sear:linktouc><sear:lln01/></sear:LINKS></sear:DOC></sear:DOCSET></sear:RESULT></sear:JAGROOT></sear:SEGMENTS>

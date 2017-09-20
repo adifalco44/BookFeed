@@ -1,0 +1,5 @@
+echo Purchasing+power+black+kids+and+American+consumer+culture+Chin+Elizabeth | ./GoogleImg.py | grep http
+echo Abstracts+from+East+European+Electronics+Journals+3+United+States+Joint+Publications+Research+Service | ./GoogleImg.py | grep http
+echo Is+war+power+a+political+question+Fisher+Louis | ./GoogleImg.py | grep http
+echo French+revolution+McCarthy+Justin+H+Justin+Huntly | ./GoogleImg.py | grep http
+echo East+European+Scientific+Abstracts+Electronics+and+Electrical+Engineering+No+51+United+States+Joint+Publications+Research+Service | ./GoogleImg.py | grep http

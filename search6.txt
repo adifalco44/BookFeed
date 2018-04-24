@@ -1,0 +1,5 @@
+echo Stranger+than+fiction+Ross+Albert | ./GoogleImg.py | grep http
+echo Israeli+historical+revisionism+from+left+to+right+Shapira+Anita | ./GoogleImg.py | grep http
+echo Recharge+your+team+keep+them+going+and+going+--+Deeprose+Donna | ./GoogleImg.py | grep http
+echo Stranger+and+guest+Vincent+Marvin+Richardson | ./GoogleImg.py | grep http
+echo How+the+war+was+won+command+and+technology+in+the+British+Army+on+the+western+front+1917-1918+Travers+Timothy | ./GoogleImg.py | grep http

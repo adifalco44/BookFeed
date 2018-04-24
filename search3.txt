@@ -1,0 +1,5 @@
+echo albero+degli+zoccoli+The+Tree+of+wooden+clogs+Olmi+Ermanno | ./GoogleImg.py | grep http
+echo American+neutrality+an+appeal+by+the+President+of+the+United+States+to+the+citizens+of+the+republic+requesting+their+assistance+in+maintaining+a+state+of+neutrality+during+the+present+European+war+United+States+President+Wilson | ./GoogleImg.py | grep http
+echo East+Europe+Report+Scientific+Affairs+No+793+United+States+Joint+Publications+Research+Service | ./GoogleImg.py | grep http
+echo Neutrality+Peace+Legislation+and+Our+Foreign+Policy+Part+5+hearings+before+the+United+States+Senate+Committee+on+Foreign+Relations+Seventy-Sixth+Congress+first+session+on+Apr+17+1939+United+States+Congress+Senate+Committee+on+Foreign+Relations | ./GoogleImg.py | grep http
+echo Simple+settings+in+verse+for+six+portraits+and+pictures+from+Mr+Dickens+gallery+Bartlett+Elisha | ./GoogleImg.py | grep http
